@@ -1,0 +1,461 @@
+09-05-2020 23:19:41.332 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+09-05-2020 23:19:41.333 [Gauge] [DEBUG] Plugin html-report is already installed.
+09-05-2020 23:19:41.333 [Gauge] [DEBUG] Plugin js is already installed.
+09-05-2020 23:19:41.333 [Gauge] [DEBUG] Parsing started.
+09-05-2020 23:19:41.333 [Gauge] [DEBUG] Started concepts parsing.
+09-05-2020 23:19:41.347 [Gauge] [DEBUG] 0 concepts parsing completed.
+09-05-2020 23:19:41.347 [Gauge] [DEBUG] Started specifications parsing.
+09-05-2020 23:19:41.347 [Gauge] [DEBUG] 1 specifications parsing completed.
+09-05-2020 23:19:41.347 [Gauge] [DEBUG] Parsing completed.
+09-05-2020 23:19:41.699 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51013
+09-05-2020 23:19:41.702 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51013
+09-05-2020 23:19:41.702 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:41.712 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:19:41.712 [Gauge] [DEBUG] Run started
+09-05-2020 23:19:41.713 [Gauge] [DEBUG] Starting Html Report plugin
+09-05-2020 23:19:41.744 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51018
+09-05-2020 23:19:41.745 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51018
+09-05-2020 23:19:41.745 [Gauge] [DEBUG] Initialising suite data store.
+09-05-2020 23:19:42.527 [Gauge] [DEBUG] Checking updates...
+09-05-2020 23:19:42.527 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+09-05-2020 23:19:42.967 [Gauge] [INFO] # Getting Started with Gauge
+09-05-2020 23:19:42.979 [Gauge] [INFO] ## Search test-automation in google search
+09-05-2020 23:19:42.986 [Gauge] [DEBUG] * Goto google.com
+09-05-2020 23:19:42.997 [Gauge] [DEBUG] * Search for testing
+09-05-2020 23:19:43.255 [js] [ERROR] [DEPRECATED] gauge.screenshotFn will be removed soon, use gauge.customScreenshotWriter instead.
+09-05-2020 23:19:43.264 [Gauge] [ERROR] Error Message: rpc error: code = Unavailable desc = transport is closing
+09-05-2020 23:19:43.264 [Gauge] [ERROR] Stacktrace: 
+09-05-2020 23:19:43.265 [html-report] [DEBUG] Transformed SuiteResult to report structure
+09-05-2020 23:19:43.519 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+09-05-2020 23:19:43.519 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+09-05-2020 23:19:43.520 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+09-05-2020 23:19:43.520 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = all SubConns are in TransientFailure, latest connection error: connection error: desc = "transport: Error while dialing dial tcp 127.0.0.1:51013: connect: connection refused"
+09-05-2020 23:19:43.520 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:19:43.520 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:19:43.520 [Gauge] [INFO] 
+Total time taken: 1.551s
+09-05-2020 23:20:57.695 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+09-05-2020 23:20:57.696 [Gauge] [DEBUG] Plugin js is already installed.
+09-05-2020 23:20:57.697 [Gauge] [DEBUG] Plugin html-report is already installed.
+09-05-2020 23:20:57.697 [Gauge] [DEBUG] Parsing started.
+09-05-2020 23:20:57.697 [Gauge] [DEBUG] Started concepts parsing.
+09-05-2020 23:20:57.709 [Gauge] [DEBUG] 0 concepts parsing completed.
+09-05-2020 23:20:57.710 [Gauge] [DEBUG] Started specifications parsing.
+09-05-2020 23:20:57.710 [Gauge] [DEBUG] 1 specifications parsing completed.
+09-05-2020 23:20:57.710 [Gauge] [DEBUG] Parsing completed.
+09-05-2020 23:20:57.965 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51046
+09-05-2020 23:20:57.967 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51046
+09-05-2020 23:20:57.967 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:57.977 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:57.977 [Gauge] [DEBUG] Run started
+09-05-2020 23:20:57.977 [Gauge] [DEBUG] Starting Html Report plugin
+09-05-2020 23:20:57.988 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51051
+09-05-2020 23:20:57.989 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51051
+09-05-2020 23:20:57.989 [Gauge] [DEBUG] Initialising suite data store.
+09-05-2020 23:20:58.440 [Gauge] [DEBUG] Checking updates...
+09-05-2020 23:20:58.440 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+09-05-2020 23:20:59.119 [Gauge] [INFO] # Getting Started with Gauge
+09-05-2020 23:20:59.129 [Gauge] [INFO] ## Search test-automation in google search
+09-05-2020 23:20:59.139 [Gauge] [DEBUG] * Goto google.com
+09-05-2020 23:20:59.152 [Gauge] [DEBUG] * Search for testing
+09-05-2020 23:20:59.480 [js] [ERROR] [DEPRECATED] gauge.screenshotFn will be removed soon, use gauge.customScreenshotWriter instead.
+09-05-2020 23:20:59.488 [Gauge] [ERROR] Error Message: rpc error: code = Unavailable desc = transport is closing
+09-05-2020 23:20:59.488 [Gauge] [ERROR] Stacktrace: 
+09-05-2020 23:20:59.489 [html-report] [DEBUG] Transformed SuiteResult to report structure
+09-05-2020 23:20:59.497 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+09-05-2020 23:20:59.497 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+09-05-2020 23:20:59.497 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+09-05-2020 23:20:59.497 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = all SubConns are in TransientFailure, latest connection error: connection error: desc = "transport: Error while dialing dial tcp 127.0.0.1:51046: connect: connection refused"
+09-05-2020 23:20:59.498 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:20:59.498 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:20:59.498 [Gauge] [INFO] 
+Total time taken: 1.51s
+09-05-2020 23:23:37.420 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+09-05-2020 23:23:37.421 [Gauge] [DEBUG] Plugin js is already installed.
+09-05-2020 23:23:37.422 [Gauge] [DEBUG] Plugin html-report is already installed.
+09-05-2020 23:23:37.422 [Gauge] [DEBUG] Parsing started.
+09-05-2020 23:23:37.422 [Gauge] [DEBUG] Started concepts parsing.
+09-05-2020 23:23:37.432 [Gauge] [DEBUG] 0 concepts parsing completed.
+09-05-2020 23:23:37.432 [Gauge] [DEBUG] Started specifications parsing.
+09-05-2020 23:23:37.432 [Gauge] [DEBUG] 1 specifications parsing completed.
+09-05-2020 23:23:37.432 [Gauge] [DEBUG] Parsing completed.
+09-05-2020 23:23:37.680 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51083
+09-05-2020 23:23:37.682 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51083
+09-05-2020 23:23:37.682 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:23:37.691 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:23:37.691 [Gauge] [DEBUG] Run started
+09-05-2020 23:23:37.692 [Gauge] [DEBUG] Starting Html Report plugin
+09-05-2020 23:23:37.703 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51088
+09-05-2020 23:23:37.704 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51088
+09-05-2020 23:23:37.704 [Gauge] [DEBUG] Initialising suite data store.
+09-05-2020 23:23:38.256 [Gauge] [DEBUG] Checking updates...
+09-05-2020 23:23:38.257 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+09-05-2020 23:23:38.636 [Gauge] [INFO] # Getting Started with Gauge
+09-05-2020 23:23:38.647 [Gauge] [INFO] ## Search test-automation in google search
+09-05-2020 23:23:38.654 [Gauge] [DEBUG] * Goto google.com
+09-05-2020 23:23:38.665 [Gauge] [DEBUG] * Search for testing
+09-05-2020 23:23:38.925 [js] [ERROR] [DEPRECATED] gauge.screenshotFn will be removed soon, use gauge.customScreenshotWriter instead.
+09-05-2020 23:23:38.932 [Gauge] [ERROR] Error Message: rpc error: code = Unavailable desc = transport is closing
+09-05-2020 23:23:38.932 [Gauge] [ERROR] Stacktrace: 
+09-05-2020 23:23:38.933 [html-report] [DEBUG] Transformed SuiteResult to report structure
+09-05-2020 23:23:38.944 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+09-05-2020 23:23:38.944 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+09-05-2020 23:23:38.944 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+09-05-2020 23:23:38.945 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = all SubConns are in TransientFailure, latest connection error: connection error: desc = "transport: Error while dialing dial tcp 127.0.0.1:51083: connect: connection refused"
+09-05-2020 23:23:38.945 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:23:38.945 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:23:38.945 [Gauge] [INFO] 
+Total time taken: 1.24s
+09-05-2020 23:24:04.640 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+09-05-2020 23:24:04.641 [Gauge] [DEBUG] Plugin html-report is already installed.
+09-05-2020 23:24:04.641 [Gauge] [DEBUG] Plugin js is already installed.
+09-05-2020 23:24:04.642 [Gauge] [DEBUG] Parsing started.
+09-05-2020 23:24:04.642 [Gauge] [DEBUG] Started concepts parsing.
+09-05-2020 23:24:04.655 [Gauge] [DEBUG] 0 concepts parsing completed.
+09-05-2020 23:24:04.655 [Gauge] [DEBUG] Started specifications parsing.
+09-05-2020 23:24:04.655 [Gauge] [DEBUG] 1 specifications parsing completed.
+09-05-2020 23:24:04.656 [Gauge] [DEBUG] Parsing completed.
+09-05-2020 23:24:04.910 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51110
+09-05-2020 23:24:04.912 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51110
+09-05-2020 23:24:04.912 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:24:04.921 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:24:04.921 [Gauge] [DEBUG] Run started
+09-05-2020 23:24:04.922 [Gauge] [DEBUG] Starting Html Report plugin
+09-05-2020 23:24:04.933 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51115
+09-05-2020 23:24:04.934 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51115
+09-05-2020 23:24:04.934 [Gauge] [DEBUG] Initialising suite data store.
+09-05-2020 23:24:05.568 [Gauge] [DEBUG] Checking updates...
+09-05-2020 23:24:05.569 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+09-05-2020 23:24:05.944 [Gauge] [INFO] # Getting Started with Gauge
+09-05-2020 23:24:05.953 [Gauge] [INFO] ## Search test-automation in google search
+09-05-2020 23:24:05.962 [Gauge] [DEBUG] * Goto google.com
+09-05-2020 23:24:05.978 [Gauge] [DEBUG] * Search for testing
+09-05-2020 23:24:06.206 [js] [ERROR] [DEPRECATED] gauge.screenshotFn will be removed soon, use gauge.customScreenshotWriter instead.
+09-05-2020 23:24:06.215 [Gauge] [ERROR] Error Message: rpc error: code = Unavailable desc = transport is closing
+09-05-2020 23:24:06.215 [Gauge] [ERROR] Stacktrace: 
+09-05-2020 23:24:06.215 [html-report] [DEBUG] Transformed SuiteResult to report structure
+09-05-2020 23:24:06.224 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+09-05-2020 23:24:06.224 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+09-05-2020 23:24:06.224 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+09-05-2020 23:24:06.225 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = all SubConns are in TransientFailure, latest connection error: connection error: desc = "transport: Error while dialing dial tcp 127.0.0.1:51110: connect: connection refused"
+09-05-2020 23:24:06.225 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:24:06.225 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:24:06.225 [Gauge] [INFO] 
+Total time taken: 1.293s
+09-05-2020 23:25:16.239 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+09-05-2020 23:25:16.240 [Gauge] [DEBUG] Plugin js is already installed.
+09-05-2020 23:25:16.240 [Gauge] [DEBUG] Plugin html-report is already installed.
+09-05-2020 23:25:16.241 [Gauge] [DEBUG] Parsing started.
+09-05-2020 23:25:16.241 [Gauge] [DEBUG] Started concepts parsing.
+09-05-2020 23:25:16.250 [Gauge] [DEBUG] 0 concepts parsing completed.
+09-05-2020 23:25:16.250 [Gauge] [DEBUG] Started specifications parsing.
+09-05-2020 23:25:16.251 [Gauge] [DEBUG] 1 specifications parsing completed.
+09-05-2020 23:25:16.251 [Gauge] [DEBUG] Parsing completed.
+09-05-2020 23:25:16.498 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51137
+09-05-2020 23:25:16.500 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51137
+09-05-2020 23:25:16.500 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:25:16.509 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:25:16.510 [Gauge] [DEBUG] Run started
+09-05-2020 23:25:16.510 [Gauge] [DEBUG] Starting Html Report plugin
+09-05-2020 23:25:16.519 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51142
+09-05-2020 23:25:16.521 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51142
+09-05-2020 23:25:16.521 [Gauge] [DEBUG] Initialising suite data store.
+09-05-2020 23:25:17.313 [Gauge] [DEBUG] Checking updates...
+09-05-2020 23:25:17.314 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+09-05-2020 23:25:17.591 [Gauge] [INFO] # Getting Started with Gauge
+09-05-2020 23:25:17.603 [Gauge] [INFO] ## Search test-automation in google search
+09-05-2020 23:25:17.609 [Gauge] [DEBUG] * Goto google.com
+09-05-2020 23:25:18.363 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+09-05-2020 23:25:18.551 [Gauge] [DEBUG] * Search for testing
+09-05-2020 23:25:18.658 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+09-05-2020 23:25:25.211 [html-report] [DEBUG] Transformed SuiteResult to report structure
+09-05-2020 23:25:25.219 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+09-05-2020 23:25:25.219 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+09-05-2020 23:25:25.219 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+09-05-2020 23:25:25.423 [Gauge] [DEBUG] Runner with PID:17723 has exited
+09-05-2020 23:25:25.423 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:25:25.423 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:25:25.423 [Gauge] [INFO] 
+Total time taken: 8.701s
+09-05-2020 23:50:16.918 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+09-05-2020 23:50:16.919 [Gauge] [DEBUG] Plugin js is already installed.
+09-05-2020 23:50:16.920 [Gauge] [DEBUG] Plugin html-report is already installed.
+09-05-2020 23:50:16.920 [Gauge] [DEBUG] Parsing started.
+09-05-2020 23:50:16.920 [Gauge] [DEBUG] Started concepts parsing.
+09-05-2020 23:50:16.929 [Gauge] [DEBUG] 0 concepts parsing completed.
+09-05-2020 23:50:16.929 [Gauge] [DEBUG] Started specifications parsing.
+09-05-2020 23:50:16.930 [Gauge] [DEBUG] 1 specifications parsing completed.
+09-05-2020 23:50:16.930 [Gauge] [DEBUG] Parsing completed.
+09-05-2020 23:50:17.182 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:50:17.187 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51311
+09-05-2020 23:50:17.190 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51311
+09-05-2020 23:50:17.190 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:50:17.200 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:50:17.201 [Gauge] [DEBUG] Run started
+09-05-2020 23:50:17.202 [Gauge] [DEBUG] Starting Html Report plugin
+09-05-2020 23:50:17.222 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51316
+09-05-2020 23:50:17.222 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51316
+09-05-2020 23:50:17.222 [Gauge] [DEBUG] Initialising suite data store.
+09-05-2020 23:50:17.338 [js] [ERROR] Unable to require module 'objects/locators' in /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/tests/googleSearch.js
+/Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/tests/objects/locators.js:3
+googleSearchTextbox = '$("//input[@title='Search']")'
+                                          ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:895:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at /Users/monika.sharma/.gauge/plugins/js/2.3.10/src/req-manager.js:43:18
+    at Req.load (/Users/monika.sharma/.gauge/plugins/js/2.3.10/src/req-manager.js:50:5)
+    at fn (/Users/monika.sharma/.gauge/plugins/js/2.3.10/src/req-manager.js:61:20)
+    at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/tests/googleSearch.js:2:16
+    at Script.runInContext (vm.js:127:20)
+09-05-2020 23:50:17.340 [js] [ERROR] Error executing tests/objects/locators.js
+tests/objects/locators.js:3
+googleSearchTextbox = '$("//input[@title='Search']")'
+                                          ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at new Script (vm.js:84:7)
+    at createScript (vm.js:258:10)
+    at Object.runInContext (vm.js:289:10)
+    at VM.run (/Users/monika.sharma/.gauge/plugins/js/2.3.10/src/vm.js:59:8)
+    at VM.runFile (/Users/monika.sharma/.gauge/plugins/js/2.3.10/src/vm.js:73:8)
+    at /Users/monika.sharma/.gauge/plugins/js/2.3.10/src/impl-loader.js:13:10
+    at Array.forEach (<anonymous>)
+    at /Users/monika.sharma/.gauge/plugins/js/2.3.10/src/impl-loader.js:10:31
+    at new Promise (<anonymous>)
+    at Object.loadImpl [as load] (/Users/monika.sharma/.gauge/plugins/js/2.3.10/src/impl-loader.js:6:10)
+09-05-2020 23:50:17.705 [Gauge] [DEBUG] Checking updates...
+09-05-2020 23:50:17.706 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+09-05-2020 23:50:18.379 [Gauge] [INFO] # Getting Started with Gauge
+09-05-2020 23:50:18.391 [Gauge] [INFO] ## Search test-automation in google search
+09-05-2020 23:50:18.397 [Gauge] [DEBUG] * Goto google.com
+09-05-2020 23:50:18.407 [Gauge] [DEBUG] * Search for testing
+09-05-2020 23:50:18.762 [html-report] [DEBUG] Transformed SuiteResult to report structure
+09-05-2020 23:50:18.771 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+09-05-2020 23:50:18.771 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+09-05-2020 23:50:18.772 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+09-05-2020 23:50:18.975 [Gauge] [DEBUG] Runner with PID:20045 has exited
+09-05-2020 23:50:18.975 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:50:18.976 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+09-05-2020 23:50:18.976 [Gauge] [INFO] 
+Total time taken: 1.56s
+10-05-2020 00:06:28.538 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+10-05-2020 00:06:28.539 [Gauge] [DEBUG] Plugin js is already installed.
+10-05-2020 00:06:28.542 [Gauge] [DEBUG] Plugin html-report is already installed.
+10-05-2020 00:06:28.543 [Gauge] [DEBUG] Parsing started.
+10-05-2020 00:06:28.543 [Gauge] [DEBUG] Started concepts parsing.
+10-05-2020 00:06:28.560 [Gauge] [DEBUG] 0 concepts parsing completed.
+10-05-2020 00:06:28.560 [Gauge] [DEBUG] Started specifications parsing.
+10-05-2020 00:06:28.570 [Gauge] [DEBUG] 1 specifications parsing completed.
+10-05-2020 00:06:28.571 [Gauge] [DEBUG] Parsing completed.
+10-05-2020 00:06:28.905 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51445
+10-05-2020 00:06:28.909 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51445
+10-05-2020 00:06:28.910 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:06:28.920 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:06:28.920 [Gauge] [DEBUG] Run started
+10-05-2020 00:06:28.920 [Gauge] [DEBUG] Starting Html Report plugin
+10-05-2020 00:06:28.931 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51450
+10-05-2020 00:06:28.932 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51450
+10-05-2020 00:06:28.932 [Gauge] [DEBUG] Initialising suite data store.
+10-05-2020 00:06:29.636 [Gauge] [DEBUG] Checking updates...
+10-05-2020 00:06:29.640 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:06:30.217 [Gauge] [INFO] # Getting Started with Gauge
+10-05-2020 00:06:30.235 [Gauge] [INFO] ## Search test-automation in google search
+10-05-2020 00:06:30.247 [Gauge] [DEBUG] * Goto google.com
+10-05-2020 00:06:30.823 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:06:31.113 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:06:31.731 [Gauge] [DEBUG] * Search for testing
+10-05-2020 00:06:45.618 [html-report] [DEBUG] Transformed SuiteResult to report structure
+10-05-2020 00:06:45.635 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+10-05-2020 00:06:45.635 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+10-05-2020 00:06:45.638 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+10-05-2020 00:06:45.842 [Gauge] [DEBUG] Runner with PID:21605 has exited
+10-05-2020 00:06:45.843 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+10-05-2020 00:06:45.843 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10-05-2020 00:06:45.843 [Gauge] [INFO] 
+Total time taken: 16.696s
+10-05-2020 00:07:29.457 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+10-05-2020 00:07:29.463 [Gauge] [DEBUG] Plugin js is already installed.
+10-05-2020 00:07:29.464 [Gauge] [DEBUG] Plugin html-report is already installed.
+10-05-2020 00:07:29.464 [Gauge] [DEBUG] Parsing started.
+10-05-2020 00:07:29.464 [Gauge] [DEBUG] Started concepts parsing.
+10-05-2020 00:07:29.479 [Gauge] [DEBUG] 0 concepts parsing completed.
+10-05-2020 00:07:29.479 [Gauge] [DEBUG] Started specifications parsing.
+10-05-2020 00:07:29.479 [Gauge] [DEBUG] 1 specifications parsing completed.
+10-05-2020 00:07:29.479 [Gauge] [DEBUG] Parsing completed.
+10-05-2020 00:07:29.832 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51492
+10-05-2020 00:07:29.835 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51492
+10-05-2020 00:07:29.835 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:07:29.846 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:07:29.846 [Gauge] [DEBUG] Run started
+10-05-2020 00:07:29.847 [Gauge] [DEBUG] Starting Html Report plugin
+10-05-2020 00:07:29.859 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51497
+10-05-2020 00:07:29.860 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51497
+10-05-2020 00:07:29.860 [Gauge] [DEBUG] Initialising suite data store.
+10-05-2020 00:07:30.194 [Gauge] [DEBUG] Checking updates...
+10-05-2020 00:07:30.196 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:07:31.262 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:07:31.575 [Gauge] [INFO] # Getting Started with Gauge
+10-05-2020 00:07:31.584 [Gauge] [INFO] ## Search test-automation in google search
+10-05-2020 00:07:31.590 [Gauge] [DEBUG] * Goto google.com
+10-05-2020 00:07:31.620 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:07:32.260 [Gauge] [DEBUG] * Search for testing
+10-05-2020 00:07:47.247 [html-report] [DEBUG] Transformed SuiteResult to report structure
+10-05-2020 00:07:47.257 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+10-05-2020 00:07:47.257 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+10-05-2020 00:07:47.257 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+10-05-2020 00:07:47.467 [Gauge] [DEBUG] Runner with PID:21728 has exited
+10-05-2020 00:07:47.467 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+10-05-2020 00:07:47.467 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10-05-2020 00:07:47.467 [Gauge] [INFO] 
+Total time taken: 17.399s
+10-05-2020 00:10:19.583 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+10-05-2020 00:10:19.585 [Gauge] [DEBUG] Plugin js is already installed.
+10-05-2020 00:10:19.585 [Gauge] [DEBUG] Plugin html-report is already installed.
+10-05-2020 00:10:19.585 [Gauge] [DEBUG] Parsing started.
+10-05-2020 00:10:19.585 [Gauge] [DEBUG] Started concepts parsing.
+10-05-2020 00:10:19.599 [Gauge] [DEBUG] 0 concepts parsing completed.
+10-05-2020 00:10:19.599 [Gauge] [DEBUG] Started specifications parsing.
+10-05-2020 00:10:19.600 [Gauge] [DEBUG] 1 specifications parsing completed.
+10-05-2020 00:10:19.600 [Gauge] [DEBUG] Parsing completed.
+10-05-2020 00:10:19.894 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51540
+10-05-2020 00:10:19.900 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51540
+10-05-2020 00:10:19.900 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:10:19.916 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:10:19.917 [Gauge] [DEBUG] Run started
+10-05-2020 00:10:19.917 [Gauge] [DEBUG] Starting Html Report plugin
+10-05-2020 00:10:19.932 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51545
+10-05-2020 00:10:19.933 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51545
+10-05-2020 00:10:19.933 [Gauge] [DEBUG] Initialising suite data store.
+10-05-2020 00:10:20.407 [Gauge] [DEBUG] Checking updates...
+10-05-2020 00:10:20.408 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:10:21.137 [Gauge] [INFO] # Getting Started with Gauge
+10-05-2020 00:10:21.158 [Gauge] [INFO] ## Search test-automation in google search
+10-05-2020 00:10:21.174 [Gauge] [DEBUG] * Goto google.com
+10-05-2020 00:10:21.667 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:10:21.963 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:10:22.217 [Gauge] [DEBUG] * Search for testing
+10-05-2020 00:10:28.724 [html-report] [DEBUG] Transformed SuiteResult to report structure
+10-05-2020 00:10:28.732 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+10-05-2020 00:10:28.732 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+10-05-2020 00:10:28.732 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+10-05-2020 00:10:28.946 [Gauge] [DEBUG] Runner with PID:22002 has exited
+10-05-2020 00:10:28.946 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+10-05-2020 00:10:28.947 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10-05-2020 00:10:28.947 [Gauge] [INFO] 
+Total time taken: 8.806s
+10-05-2020 00:24:44.227 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+10-05-2020 00:24:44.240 [Gauge] [DEBUG] Plugin js is already installed.
+10-05-2020 00:24:44.249 [Gauge] [DEBUG] Plugin html-report is already installed.
+10-05-2020 00:24:44.249 [Gauge] [DEBUG] Parsing started.
+10-05-2020 00:24:44.249 [Gauge] [DEBUG] Started concepts parsing.
+10-05-2020 00:24:44.276 [Gauge] [DEBUG] 0 concepts parsing completed.
+10-05-2020 00:24:44.277 [Gauge] [DEBUG] Started specifications parsing.
+10-05-2020 00:24:44.317 [Gauge] [DEBUG] 1 specifications parsing completed.
+10-05-2020 00:24:44.317 [Gauge] [DEBUG] Parsing completed.
+10-05-2020 00:24:44.684 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51659
+10-05-2020 00:24:44.689 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51659
+10-05-2020 00:24:44.689 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:44.700 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:44.701 [Gauge] [DEBUG] Run started
+10-05-2020 00:24:44.701 [Gauge] [DEBUG] Starting Html Report plugin
+10-05-2020 00:24:44.712 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51664
+10-05-2020 00:24:44.712 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51664
+10-05-2020 00:24:44.712 [Gauge] [DEBUG] Initialising suite data store.
+10-05-2020 00:24:45.056 [Gauge] [DEBUG] Checking updates...
+10-05-2020 00:24:45.056 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:24:45.998 [Gauge] [INFO] # Getting Started with Gauge
+10-05-2020 00:24:46.014 [Gauge] [INFO] ## Search test-automation in google search
+10-05-2020 00:24:46.021 [Gauge] [DEBUG] * Goto google.com
+10-05-2020 00:24:46.218 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:24:46.511 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:24:47.270 [Gauge] [DEBUG] * Search for testing
+10-05-2020 00:24:53.668 [html-report] [DEBUG] Transformed SuiteResult to report structure
+10-05-2020 00:24:53.684 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+10-05-2020 00:24:53.684 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+10-05-2020 00:24:53.684 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+10-05-2020 00:24:53.894 [Gauge] [DEBUG] Runner with PID:23327 has exited
+10-05-2020 00:24:53.894 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+10-05-2020 00:24:53.894 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10-05-2020 00:24:53.894 [Gauge] [INFO] 
+Total time taken: 8.966s
+10-05-2020 00:26:07.327 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+10-05-2020 00:26:07.327 [Gauge] [DEBUG] Plugin js is already installed.
+10-05-2020 00:26:07.328 [Gauge] [DEBUG] Plugin html-report is already installed.
+10-05-2020 00:26:07.328 [Gauge] [DEBUG] Parsing started.
+10-05-2020 00:26:07.328 [Gauge] [DEBUG] Started concepts parsing.
+10-05-2020 00:26:07.375 [Gauge] [DEBUG] 0 concepts parsing completed.
+10-05-2020 00:26:07.375 [Gauge] [DEBUG] Started specifications parsing.
+10-05-2020 00:26:07.376 [Gauge] [DEBUG] 1 specifications parsing completed.
+10-05-2020 00:26:07.376 [Gauge] [DEBUG] Parsing completed.
+10-05-2020 00:26:08.118 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51739
+10-05-2020 00:26:08.122 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51739
+10-05-2020 00:26:08.122 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:26:08.135 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:26:08.136 [Gauge] [DEBUG] Run started
+10-05-2020 00:26:08.136 [Gauge] [DEBUG] Starting Html Report plugin
+10-05-2020 00:26:08.152 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51744
+10-05-2020 00:26:08.153 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51744
+10-05-2020 00:26:08.153 [Gauge] [DEBUG] Initialising suite data store.
+10-05-2020 00:26:08.490 [Gauge] [DEBUG] Checking updates...
+10-05-2020 00:26:08.490 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:26:09.536 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:26:09.834 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+10-05-2020 00:26:10.091 [Gauge] [INFO] # Getting Started with Gauge
+10-05-2020 00:26:10.112 [Gauge] [INFO] ## Search test-automation in google search
+10-05-2020 00:26:10.124 [Gauge] [DEBUG] * Goto google.com
+10-05-2020 00:26:11.302 [Gauge] [DEBUG] * Search for testing
+10-05-2020 00:26:17.847 [html-report] [DEBUG] Transformed SuiteResult to report structure
+10-05-2020 00:26:17.858 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+10-05-2020 00:26:17.859 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+10-05-2020 00:26:17.859 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+10-05-2020 00:26:18.076 [Gauge] [DEBUG] Runner with PID:23514 has exited
+10-05-2020 00:26:18.076 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+10-05-2020 00:26:18.076 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10-05-2020 00:26:18.076 [Gauge] [INFO] 
+Total time taken: 9.706s
+12-06-2020 22:29:22.183 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/monika.sharma/Desktop/myworkbench/testing/gauge-taiko/gauge-taiko-demo/gauge-taiko-test/.gauge/screenshots
+12-06-2020 22:29:22.185 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-06-2020 22:29:22.185 [Gauge] [DEBUG] Plugin js is already installed.
+12-06-2020 22:29:22.186 [Gauge] [DEBUG] Parsing started.
+12-06-2020 22:29:22.186 [Gauge] [DEBUG] Started concepts parsing.
+12-06-2020 22:29:22.205 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-06-2020 22:29:22.206 [Gauge] [DEBUG] Started specifications parsing.
+12-06-2020 22:29:22.206 [Gauge] [DEBUG] 2 specifications parsing completed.
+12-06-2020 22:29:22.207 [Gauge] [DEBUG] Parsing completed.
+12-06-2020 22:29:22.469 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56127
+12-06-2020 22:29:22.471 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56127
+12-06-2020 22:29:22.471 [Gauge] [DEBUG] Validation started.
+12-06-2020 22:29:22.486 [Gauge] [DEBUG] Validation completed.
+12-06-2020 22:29:22.492 [Gauge] [DEBUG] Run started
+12-06-2020 22:29:22.500 [Gauge] [DEBUG] Starting Html Report plugin
+12-06-2020 22:29:22.772 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56132
+12-06-2020 22:29:22.774 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56132
+12-06-2020 22:29:22.774 [Gauge] [DEBUG] Initialising suite data store.
+12-06-2020 22:29:23.139 [Gauge] [DEBUG] Checking updates...
+12-06-2020 22:29:23.140 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+12-06-2020 22:29:23.685 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+12-06-2020 22:29:23.745 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+12-06-2020 22:29:28.376 [Gauge] [INFO] # Getting Started with Gauge
+12-06-2020 22:29:28.402 [Gauge] [INFO] ## Search Taiko Repository
+12-06-2020 22:29:28.411 [Gauge] [DEBUG] * Goto getgauge github page
+12-06-2020 22:29:30.417 [Gauge] [DEBUG] * Search for "Taiko"
+12-06-2020 22:29:34.652 [Gauge] [DEBUG] * Page contains "getgauge/taiko"
+12-06-2020 22:29:34.711 [Gauge] [INFO] # Getting Started with Gauge
+12-06-2020 22:29:34.715 [Gauge] [INFO] ## Search test-automation in google search
+12-06-2020 22:29:34.718 [Gauge] [DEBUG] * Goto google.com
+12-06-2020 22:29:35.909 [Gauge] [DEBUG] * Search for testing
+12-06-2020 22:29:42.401 [html-report] [DEBUG] Transformed SuiteResult to report structure
+12-06-2020 22:29:42.449 [html-report] [INFO] Successfully generated html-report to => /Users/monika.sharma/Desktop/myworkbench/testing/gauge-taiko/gauge-taiko-demo/gauge-taiko-test/reports/html-report/index.html
+12-06-2020 22:29:42.449 [html-report] [DEBUG] Done generating HTML report using theme from /Users/monika.sharma/.gauge/plugins/html-report/4.0.10/themes/default
+12-06-2020 22:29:42.449 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+12-06-2020 22:29:42.667 [Gauge] [DEBUG] Runner with PID:79887 has exited
+12-06-2020 22:29:42.668 [Gauge] [INFO] Specifications:	2 executed	2 passed	0 failed	0 skipped
+12-06-2020 22:29:42.668 [Gauge] [INFO] Scenarios:	2 executed	2 passed	0 failed	0 skipped
+12-06-2020 22:29:42.668 [Gauge] [INFO] 
+Total time taken: 19.908s
+12-06-2020 22:29:42.668 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.

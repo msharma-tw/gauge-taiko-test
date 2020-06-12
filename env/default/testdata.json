@@ -1,0 +1,6 @@
+{
+"baseURL" : "https://www.google.com",
+
+"googleSearchText" : "testing",
+"findText" : "Top Stories"
+}

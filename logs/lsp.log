@@ -1,0 +1,1323 @@
+09-05-2020 23:13:29.226 [Gauge] [INFO] Watching directory: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs
+09-05-2020 23:13:29.227 [Gauge] [DEBUG] Found 1 files
+09-05-2020 23:13:29.248 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+09-05-2020 23:13:29.249 [Gauge] [INFO] Initializing specs cache with 1 specs
+09-05-2020 23:13:29.249 [Gauge] [DEBUG] Adding specs from /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/example.spec
+09-05-2020 23:13:29.249 [Gauge] [INFO] Initializing steps cache with 1 steps
+09-05-2020 23:13:29.249 [Gauge] [INFO] Starting language runner
+09-05-2020 23:13:30.690 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50968
+09-05-2020 23:13:30.693 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50968
+09-05-2020 23:13:30.693 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+09-05-2020 23:13:30.720 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:13:30.727 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:13:30.792 [Gauge] [INFO] Connection closed
+09-05-2020 23:13:30.792 [Gauge] [ERROR] Unable to log error 'Connection closed' to LSP: jsonrpc2: connection is closed
+09-05-2020 23:13:34.010 [Gauge] [INFO] Watching directory: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs
+09-05-2020 23:13:34.010 [Gauge] [DEBUG] Found 1 files
+09-05-2020 23:13:34.022 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+09-05-2020 23:13:34.023 [Gauge] [INFO] Initializing specs cache with 1 specs
+09-05-2020 23:13:34.023 [Gauge] [DEBUG] Adding specs from /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/example.spec
+09-05-2020 23:13:34.023 [Gauge] [INFO] Initializing steps cache with 1 steps
+09-05-2020 23:13:34.023 [Gauge] [INFO] Starting language runner
+09-05-2020 23:13:34.460 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50975
+09-05-2020 23:13:34.463 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50975
+09-05-2020 23:13:34.463 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+09-05-2020 23:13:34.487 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:13:34.493 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:14:30.083 [js] [INFO] 
+09-05-2020 23:14:30.083 [js] [INFO] 
+09-05-2020 23:14:30.093 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:14:30.095 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:07.814 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:07.818 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:11.225 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:11.229 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:25.974 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:15:26.072 [Gauge] [DEBUG] request #5: textDocument/documentSymbol: parsing failed for /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec. [[ParseError] /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec:1 Spec does not have any elements => '']
+09-05-2020 23:15:26.089 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:26.095 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:26.298 [Gauge] [DEBUG] request #6: textDocument/codeLens: failed to parse /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+/Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec:1 Spec does not have any elements
+09-05-2020 23:15:26.514 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:26.519 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:29.302 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:29.319 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:39.414 [Gauge] [DEBUG] request #12: textDocument/documentSymbol: parsing failed for /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec. [[ParseError] /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec:1 Spec does not have any elements => '']
+09-05-2020 23:15:39.637 [Gauge] [DEBUG] request #13: textDocument/codeLens: failed to parse /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+/Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec:1 Spec does not have any elements
+09-05-2020 23:15:40.971 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:40.973 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:41.251 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:15:51.293 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:51.295 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:51.588 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:51.593 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:52.118 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:52.121 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:52.408 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:52.410 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:52.776 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:52.778 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:53.067 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:15:53.495 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:53.501 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:54.479 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:54.481 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:54.712 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:54.714 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:54.754 [Gauge] [DEBUG] request #35: textDocument/codeLens: failed to parse /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+/Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec:7 Scenario heading should have at least one character
+09-05-2020 23:15:54.851 [Gauge] [DEBUG] request #36: textDocument/documentSymbol: parsing failed for /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec. [[ParseError] /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec:7 Scenario heading should have at least one character => '']
+09-05-2020 23:15:55.001 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:15:57.029 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:57.031 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:57.343 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:57.345 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:57.724 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:57.726 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:57.925 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:57.927 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:58.205 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:15:58.921 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:58.927 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:59.341 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:59.343 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:15:59.956 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:15:59.958 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:00.234 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:00.672 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:00.677 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:00.964 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:00.966 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:01.243 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:01.525 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:01.530 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:01.811 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:01.813 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:02.307 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:02.309 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:02.593 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:02.595 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:02.944 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:02.946 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:03.192 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:03.194 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:03.777 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:03.778 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:04.061 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:04.063 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:04.340 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:06.834 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:06.836 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:07.313 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:07.315 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:07.596 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:07.969 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:07.973 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:08.314 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:08.316 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:08.772 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:08.774 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:09.054 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:09.430 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:09.432 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:10.072 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:10.074 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:10.332 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:10.334 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:10.621 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:10.626 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:10.979 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:10.981 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:11.806 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:11.808 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:12.372 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:12.374 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:12.656 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:23.151 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:23.164 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:16:23.604 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:28.651 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:29.178 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:29.619 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:30.053 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:30.278 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:30.708 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:30.994 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:31.143 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:31.393 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:31.872 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:35.867 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:36.245 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:36.853 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:37.346 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:37.754 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:38.035 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:38.370 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:38.660 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:39.761 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:40.220 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:40.838 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:41.318 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:41.576 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:41.864 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:16:55.614 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:55.725 [js] [INFO] 
+09-05-2020 23:16:55.725 [js] [INFO] 
+09-05-2020 23:16:55.747 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:58.685 [js] [INFO] 
+09-05-2020 23:16:58.699 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:16:58.703 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:17:56.189 [js] [INFO] 
+09-05-2020 23:17:56.201 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:17:56.205 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:18:01.367 [js] [ERROR] Line 18: Unexpected token )
+09-05-2020 23:18:01.378 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:18:01.381 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:18:07.422 [js] [ERROR] Line 19: Unexpected token )
+09-05-2020 23:18:07.433 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:18:07.435 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:18:08.284 [js] [INFO] 
+09-05-2020 23:18:08.294 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:18:08.296 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:18:22.248 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:18:22.249 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:18:22.286 [Gauge] [DEBUG] request #176: textDocument/codeLens: failed to parse /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+/Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec:10 String not terminated
+09-05-2020 23:18:22.383 [Gauge] [DEBUG] request #177: textDocument/documentSymbol: parsing failed for /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec. [[ParseError] /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec:10 String not terminated => 'Search for "Test Automation']
+09-05-2020 23:18:22.534 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:18:25.164 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:18:25.456 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:18:27.364 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:18:27.653 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:18:29.803 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:18:30.088 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:18:38.074 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:18:38.078 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:19:01.353 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:01.358 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:19:02.149 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:02.155 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:19:02.529 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:02.532 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:19:03.048 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:03.052 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:19:14.229 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:14.534 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:14.897 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:15.357 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:20.084 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:20.356 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:20.711 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:21.049 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:21.323 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:21.551 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:19:21.554 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:19:21.830 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:19:22.268 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+09-05-2020 23:20:12.184 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:12.190 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:12.411 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:12.419 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:14.315 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:14.318 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:14.881 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:14.884 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:15.734 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:15.737 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:17.663 [js] [ERROR] Line 6: Unexpected token }
+09-05-2020 23:20:17.673 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:17.676 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:22.610 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:22.615 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:22.971 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:22.974 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:23.267 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:23.269 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:24.618 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:24.621 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:31.698 [js] [ERROR] Line 16: Unexpected token :
+09-05-2020 23:20:31.707 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:31.710 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:38.448 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:38.451 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:41.679 [js] [ERROR] Line 18: Unexpected token :
+09-05-2020 23:20:41.691 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:41.694 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:49.012 [js] [ERROR] Line 18: Unexpected token )
+09-05-2020 23:20:49.020 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:49.023 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:20:52.810 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:20:52.813 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:25:02.198 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:25:02.203 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:25:07.875 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:25:07.880 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:25:12.190 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:25:12.192 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:25:35.997 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:25:36.000 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:25:41.314 [js] [ERROR] Line 11: Missing catch or finally after try
+09-05-2020 23:25:41.325 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:25:41.329 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:25:41.909 [js] [ERROR] Line 11: Missing catch or finally after try
+09-05-2020 23:25:41.920 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:25:41.923 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:25:45.545 [js] [ERROR] Line 11: Missing catch or finally after try
+09-05-2020 23:25:45.556 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:25:45.558 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:25:46.217 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:25:46.220 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:28:05.463 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:28:05.465 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:28:12.292 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:28:12.294 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:17.378 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:17.381 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:18.731 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:18.736 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:19.385 [js] [ERROR] Line 5: Missing initializer in const declaration
+09-05-2020 23:29:19.397 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:19.399 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:20.288 [js] [ERROR] Line 5: Missing initializer in const declaration
+09-05-2020 23:29:20.299 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:20.302 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:21.735 [js] [ERROR] Line 2: Missing initializer in const declaration
+09-05-2020 23:29:21.744 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:21.748 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:22.016 [js] [ERROR] Line 2: Missing initializer in const declaration
+09-05-2020 23:29:22.025 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:22.028 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:24.207 [js] [ERROR] Line 2: Missing initializer in const declaration
+09-05-2020 23:29:24.216 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:24.219 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:24.730 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:24.742 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:24.951 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:24.957 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:25.351 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:25.365 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:25.586 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:25.608 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:25.824 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:25.827 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:26.119 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:26.123 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:27.013 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:27.016 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:28.175 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:28.177 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:30.280 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:30.282 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:30.514 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:30.519 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:31.992 [js] [ERROR] Line 2: Unexpected token ]
+09-05-2020 23:29:32.002 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:32.005 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:32.554 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:32.560 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:33.866 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:33.868 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:36.603 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:36.607 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:36.942 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:36.945 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:38.722 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:38.727 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:40.337 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:40.339 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:41.586 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:41.589 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:44.364 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:44.367 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:45.575 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:45.578 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:46.101 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:46.104 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:46.652 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:46.657 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:46.982 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:46.985 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:47.973 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:47.976 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:48.424 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:48.427 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:48.702 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:48.704 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:49.192 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:49.209 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:49.433 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:49.436 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:52.971 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:52.978 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:56.567 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:56.574 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:56.947 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:56.950 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:58.475 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:58.479 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:29:58.850 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:29:58.852 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:01.172 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:01.175 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:02.721 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:02.724 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:12.829 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:12.832 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:13.324 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:13.327 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:13.648 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:13.652 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:13.980 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:13.990 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:14.177 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:14.180 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:14.719 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:14.722 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:14.966 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:14.969 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:15.511 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:15.516 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:15.772 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:15.775 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:16.041 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:16.052 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:16.246 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:16.248 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:17.931 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:17.933 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:19.015 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:19.017 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:19.259 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:19.264 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:19.474 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:19.477 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:19.950 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:19.953 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:21.285 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:21.287 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:21.788 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:21.790 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:22.040 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:22.043 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:22.553 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:22.556 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:23.867 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:23.870 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:24.259 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:24.261 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:25.678 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:25.683 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:26.250 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:26.254 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:26.951 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:26.953 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:27.461 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:27.464 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:27.854 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:27.857 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:28.117 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:28.121 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:28.527 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:28.530 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:32.680 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:30:32.690 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:32.693 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:33.237 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:33.241 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:33.664 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:33.671 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:33.867 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:33.869 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:34.453 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:34.456 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:34.718 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:34.720 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:35.242 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:35.244 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:37.009 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:37.012 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:37.350 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:37.352 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:30:37.807 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:30:37.810 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:03.240 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:03.264 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:03.580 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:03.582 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:30.705 [js] [ERROR] Line 1: Unexpected token ILLEGAL
+09-05-2020 23:32:30.719 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:30.721 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:31.809 [js] [ERROR] Line 1: Unexpected token ILLEGAL
+09-05-2020 23:32:31.820 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:31.823 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:32.889 [js] [ERROR] Line 1: Unexpected token ILLEGAL
+09-05-2020 23:32:32.902 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:32.904 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:33.504 [js] [ERROR] Line 1: Unexpected token ILLEGAL
+09-05-2020 23:32:33.513 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:33.515 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:33.797 [js] [ERROR] Line 1: Unexpected token ILLEGAL
+09-05-2020 23:32:33.809 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:33.812 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:34.076 [js] [ERROR] Line 1: Unexpected token ILLEGAL
+09-05-2020 23:32:34.084 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:34.087 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:34.897 [js] [ERROR] Line 1: Unexpected token ILLEGAL
+09-05-2020 23:32:34.911 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:34.913 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:36.064 [js] [ERROR] Line 1: Unexpected token ILLEGAL
+09-05-2020 23:32:36.075 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:36.077 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:54.136 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:54.144 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:32:54.611 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:32:54.613 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:38:45.829 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:38:45.832 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:38:47.438 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:38:47.440 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:38:48.492 [js] [ERROR] Line 2: Unexpected token ILLEGAL
+09-05-2020 23:38:48.502 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:38:48.504 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:38:49.173 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:38:49.176 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:39:06.337 [js] [ERROR] Line 2: Unexpected token ILLEGAL
+09-05-2020 23:39:06.353 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:39:06.362 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:39:06.565 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:39:06.567 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:39:18.221 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:39:18.232 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:39:18.235 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:39:18.961 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:39:18.971 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:39:18.974 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:40:18.905 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:40:18.915 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:40:18.917 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:41:57.039 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:41:57.056 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:41:57.429 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:41:57.431 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:16.982 [js] [ERROR] Line 1: Unexpected end of input
+09-05-2020 23:42:16.997 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:16.999 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:17.945 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:17.950 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:18.519 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:18.521 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:18.805 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:18.815 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:19.005 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:19.007 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:19.589 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:19.594 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:20.862 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:20.865 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:21.279 [js] [ERROR] Line 1: Unexpected end of input
+09-05-2020 23:42:21.293 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:21.295 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:22.792 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:22.794 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:23.034 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:23.037 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:24.679 [js] [ERROR] Line 1: Unexpected end of input
+09-05-2020 23:42:24.690 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:24.692 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:29.633 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:29.635 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:30.831 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:30.834 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:31.844 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:31.848 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:32.048 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:32.050 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:33.647 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:33.651 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:37.918 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:37.922 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:39.117 [js] [ERROR] Line 5: Unexpected end of input
+09-05-2020 23:42:39.129 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:39.131 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:39.903 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:39.908 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:40.607 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:40.610 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:41.670 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:41.673 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:43.002 [js] [ERROR] Line 5: Unexpected end of input
+09-05-2020 23:42:43.015 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:43.018 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:43.784 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:43.786 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:44.046 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:44.049 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:44.337 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:44.340 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:45.218 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:45.220 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:47.919 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:47.922 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:48.518 [js] [ERROR] Line 5: Unexpected end of input
+09-05-2020 23:42:48.529 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:48.532 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:49.703 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:49.709 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:50.864 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:50.866 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:42:53.189 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:42:53.192 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:43:16.716 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:43:16.719 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:01.392 [js] [ERROR] Line 2: Unexpected token =
+09-05-2020 23:44:01.404 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:01.406 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:01.883 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:01.895 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:01.897 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:02.291 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:02.306 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:02.314 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:02.639 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:02.648 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:02.651 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:02.983 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:02.994 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:02.996 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:03.238 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:03.247 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:03.249 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:03.505 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:03.517 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:03.520 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:10.647 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:10.656 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:10.658 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:11.130 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:11.142 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:11.144 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:11.458 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:11.469 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:11.471 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:16.050 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:16.061 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:16.063 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:16.646 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:16.657 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:16.659 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:17.167 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:17.172 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:18.318 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:18.329 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:18.331 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:20.846 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:20.858 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:20.860 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:22.736 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:22.746 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:22.749 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:23.459 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:23.471 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:23.473 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:23.657 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:23.668 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:23.670 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:25.577 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:25.588 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:25.590 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:27.149 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:27.159 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:27.162 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:28.933 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:28.943 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:28.946 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:31.939 [js] [ERROR] Line 2: Unexpected token .
+09-05-2020 23:44:31.948 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:31.950 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:38.396 [js] [ERROR] Line 2: Unexpected token /
+09-05-2020 23:44:38.407 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:38.410 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:40.410 [js] [ERROR] Line 2: Unexpected token ILLEGAL
+09-05-2020 23:44:40.421 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:40.423 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:43.210 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:43.212 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:54.854 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:54.858 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:55.215 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:55.217 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:55.822 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:55.826 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:56.254 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:56.257 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:57.594 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:57.597 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:44:58.724 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:44:58.727 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:45:03.949 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:45:03.952 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:45:07.413 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:45:07.415 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:45:07.847 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:45:07.849 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:45:32.105 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:45:32.108 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:45:35.068 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:45:35.070 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:45:35.947 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:45:35.952 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:46:29.065 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:46:29.067 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:46:31.356 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:46:31.358 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:03.165 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:03.167 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:04.802 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:04.810 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:05.020 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:05.025 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:06.149 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:06.151 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:06.464 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:06.466 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:06.768 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:06.770 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:08.000 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:08.003 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:08.689 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:08.695 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:11.766 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:11.769 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:11.991 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:11.994 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:12.474 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:12.477 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:12.709 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:12.711 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:13.991 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:13.993 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:14.615 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:14.617 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:15.107 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:15.109 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:16.166 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:16.169 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:17.389 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:17.392 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:19.089 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:19.092 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:36.480 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:36.482 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:44.248 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:44.250 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:46.249 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:46.252 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:47.222 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:47.240 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:47.438 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:47.442 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:47.683 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:47.685 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:48.584 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:48.594 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:48.809 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:48.811 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:49.566 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:49.571 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:50.621 [js] [ERROR] Line 10: Unexpected token }
+09-05-2020 23:47:50.631 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:50.633 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:51.045 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:51.049 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:51.469 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:51.471 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:51.803 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:51.805 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:52.862 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:52.864 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:53.735 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:53.739 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:54.641 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:54.646 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:55.288 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:55.294 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:55.842 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:55.847 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:47:56.853 [js] [ERROR] Line 9: Unexpected token )
+09-05-2020 23:47:56.863 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:47:56.866 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:14.481 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:14.483 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:15.773 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:15.775 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:16.081 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:48:16.092 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:16.094 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:18.528 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:48:18.540 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:18.542 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:20.397 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:48:20.409 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:20.411 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:22.213 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:48:22.224 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:22.227 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:30.986 [js] [ERROR] Line 9: Unexpected token )
+09-05-2020 23:48:30.997 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:30.999 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:32.070 [js] [ERROR] Line 9: Unexpected token )
+09-05-2020 23:48:32.080 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:32.083 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:38.762 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:38.764 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:39.163 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:39.166 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:40.251 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:40.253 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:43.321 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:43.324 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:50.378 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:50.380 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:54.558 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:54.564 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:55.100 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:55.104 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:56.257 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:56.259 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:48:57.382 [js] [ERROR] Line 9: Unexpected token )
+09-05-2020 23:48:57.392 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:48:57.394 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:49:52.993 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:49:52.995 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:49:53.432 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:49:53.434 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:49:54.269 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:49:54.271 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:49:54.549 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:49:54.551 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:49:54.781 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:49:54.785 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:49:55.980 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:49:55.985 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:49:56.493 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:49:56.496 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:50:01.676 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:50:01.678 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:40.898 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:40.901 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:42.978 [js] [ERROR] Line 6: Unexpected token (
+09-05-2020 23:51:42.988 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:42.990 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:43.654 [js] [ERROR] Line 6: Unexpected token (
+09-05-2020 23:51:43.666 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:43.668 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:44.336 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:44.341 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:44.701 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:44.704 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:46.339 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:46.344 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:47.063 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:47.068 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:47.998 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:48.003 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:49.194 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:49.199 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:49.552 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:49.554 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:49.845 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:49.849 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:50.730 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:50.732 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:52.537 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:52.541 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:51:54.412 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:51:54.414 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:10.711 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:10.713 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:18.408 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:18.413 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:18.619 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:18.621 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:24.560 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:24.563 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:26.751 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:26.753 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:27.848 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:27.851 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:29.153 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:29.155 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:35.860 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:35.862 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:36.674 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:36.677 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:36.899 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:36.904 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:37.568 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:37.575 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:37.785 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:37.787 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:38.243 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:38.245 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:45.084 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:45.086 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:52:46.094 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:52:46.097 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:56:43.062 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:56:43.066 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:01.205 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:01.209 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:06.691 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:06.693 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:12.651 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:12.654 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:37.213 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:37.225 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:37.609 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:37.611 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:39.685 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:39.699 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:39.894 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:39.899 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:40.518 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:40.531 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:40.743 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:40.745 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:41.621 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:41.624 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:42.224 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:42.227 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:43.135 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:43.138 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:57:54.376 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:57:54.378 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:58:04.277 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:58:04.286 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:58:04.293 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:58:05.370 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:58:05.380 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:58:05.382 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:58:18.907 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:58:18.917 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:58:18.920 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:58:22.762 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:58:22.768 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:58:23.047 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:58:23.049 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:58:23.804 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:58:50.364 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:58:53.512 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:58:53.521 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:58:59.736 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:58:59.746 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:01.723 [js] [ERROR] Line 3: Unexpected identifier
+09-05-2020 23:59:01.732 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:09.128 [js] [ERROR] Line 3: Unexpected token ]
+09-05-2020 23:59:09.139 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:11.912 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:23.409 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:23.414 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:24.667 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:24.686 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:24.884 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:24.889 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:25.407 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:25.410 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:25.770 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:25.772 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:26.378 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:26.380 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:27.496 [js] [ERROR] Line 3: Unexpected end of input
+09-05-2020 23:59:27.506 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:27.508 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:27.976 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:27.979 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:28.526 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:28.531 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:30.124 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:30.126 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:30.373 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:30.376 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:31.548 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:31.550 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:33.955 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:33.957 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:34.551 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:34.573 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:34.740 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:34.742 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:35.805 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:35.808 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:36.275 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:36.283 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:36.482 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:36.485 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:40.640 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:40.642 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:41.277 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:41.280 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:41.972 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:41.975 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:57.280 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:57.282 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:57.948 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:57.958 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:58.111 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:58.113 [Gauge] [DEBUG] Validation completed.
+09-05-2020 23:59:59.595 [Gauge] [DEBUG] Validation started.
+09-05-2020 23:59:59.597 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:00:00.540 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:00:00.543 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:00:01.823 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:00:01.825 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:00:02.880 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:00:02.883 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:03.675 [js] [ERROR] Line 3: Unexpected token )
+10-05-2020 00:01:03.687 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:03.689 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:04.051 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:04.054 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:35.022 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:35.028 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:35.448 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:35.451 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:36.071 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:36.073 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:37.147 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:37.149 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:37.580 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:37.582 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:37.898 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:37.900 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:38.155 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:38.157 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:39.228 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:39.231 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:01:46.686 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:01:46.688 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:10.993 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:10.998 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:11.526 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:11.528 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:12.196 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:12.200 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:13.148 [js] [ERROR] Line 20: Unexpected token )
+10-05-2020 00:02:13.164 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:13.172 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:13.569 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:13.574 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:16.319 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:16.321 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:24.879 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:24.884 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:25.493 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:25.496 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:25.915 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:25.917 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:26.394 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:26.396 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:26.997 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:27.001 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:28.464 [js] [ERROR] Line 21: Unexpected token )
+10-05-2020 00:02:28.476 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:28.485 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:30.982 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:30.984 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:31.974 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:31.978 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:02:33.518 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:02:33.521 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:06:16.829 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:06:16.832 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:06:23.120 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:06:23.124 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:07:06.043 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:07:06.046 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:07:06.232 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:07:06.235 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:07:10.263 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:07:10.266 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:07:12.652 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:07:12.657 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:07:14.869 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:07:14.872 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:07:19.815 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:07:19.818 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:07:21.748 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:07:21.751 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:07:23.825 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:07:23.827 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:07:25.996 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:07:26.001 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:08:10.319 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:08:10.321 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:08:10.795 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:08:10.797 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:08:12.363 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:08:12.366 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:17:58.329 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:17:58.334 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:18:17.561 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:18:17.564 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:18:18.107 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:18:18.112 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:18:36.173 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:18:36.178 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:18:37.529 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:18:37.531 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:18:45.396 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:18:45.401 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:18:45.682 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:18:45.684 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:18:51.771 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:18:51.773 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:22:15.700 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:22:15.703 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:22:16.839 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:22:16.841 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:22:18.087 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:22:18.090 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:22:19.888 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:22:19.890 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:22:21.153 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:22:21.156 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:22:32.756 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:22:32.758 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:22:36.564 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:22:36.566 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:22:57.463 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:22:57.465 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:22:58.018 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:22:58.023 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:02.909 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:02.914 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:03.570 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:03.572 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:04.798 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:04.800 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:31.091 [js] [ERROR] Line 4: Unexpected token )
+10-05-2020 00:23:31.101 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:31.107 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:31.565 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:31.568 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:31.796 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:31.798 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:32.477 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:32.481 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:32.887 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:32.892 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:33.073 [js] [ERROR] Line 4: Unexpected token )
+10-05-2020 00:23:33.087 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:33.089 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:34.406 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:34.412 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:34.851 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:34.853 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:53.000 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:53.003 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:54.090 [js] [ERROR] Line 9: Unexpected token )
+10-05-2020 00:23:54.102 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:54.105 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:54.926 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:54.931 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:23:55.459 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:23:55.462 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:02.248 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:02.253 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:02.542 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:02.545 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:03.540 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:03.542 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:04.630 [js] [ERROR] Line 18: Unexpected token )
+10-05-2020 00:24:04.641 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:04.644 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:07.057 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:07.059 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:07.354 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:07.359 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:08.482 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:08.485 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:19.844 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:19.846 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:27.411 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:27.426 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:27.745 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:27.747 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:28.162 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:28.164 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:28.828 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:28.831 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:32.127 [js] [ERROR] Line 22: Unexpected token )
+10-05-2020 00:24:32.137 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:32.140 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:34.624 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:34.629 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:35.067 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:35.069 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:24:36.899 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:24:36.903 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:25:37.360 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:25:37.368 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:26:04.663 [Gauge] [INFO] Spec file added / modified: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+10-05-2020 00:27:30.277 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:30.281 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:27:33.699 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:33.707 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:27:35.117 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:35.126 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:27:51.481 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:51.497 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:27:55.376 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:55.381 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:27:55.772 [js] [ERROR] Line 3: Invalid regular expression: missing /
+10-05-2020 00:27:55.790 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:55.792 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:27:55.972 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:55.975 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:27:58.279 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:58.281 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:27:58.836 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:58.840 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:27:59.349 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:59.361 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:27:59.568 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:27:59.571 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:00.809 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:00.813 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:01.146 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:01.149 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:02.022 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:02.027 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:02.243 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:02.246 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:02.764 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:02.766 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:03.211 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:03.213 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:03.526 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:03.528 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:03.718 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:03.720 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:04.325 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:04.327 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:05.685 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:05.689 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:28:39.682 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:28:39.686 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:00.230 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:00.247 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:04.560 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:04.574 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:04.616 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:04.641 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:06.293 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:06.301 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:06.315 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:06.335 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:08.340 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:08.347 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:08.393 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:08.443 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:12.127 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:12.146 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:12.181 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:12.184 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:14.117 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:14.126 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:14.324 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:14.327 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:29:15.267 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:29:15.269 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:32:48.843 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:32:48.847 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:32:51.219 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:32:51.222 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:33:32.293 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:33:32.296 [Gauge] [DEBUG] Validation completed.
+10-05-2020 00:44:18.564 [Gauge] [DEBUG] Validation started.
+10-05-2020 00:44:18.566 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:33.703 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:33.706 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:34.342 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:34.343 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:44.934 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:44.938 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:45.404 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:45.406 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:45.699 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:45.708 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:46.383 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:46.385 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:46.939 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:46.941 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:47.417 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:47.419 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:47.852 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:47.854 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:48.109 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:48.116 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:48.416 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:48.418 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:48.958 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:48.962 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:49.202 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:49.204 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:04:49.698 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:04:49.700 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:14:05.810 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:14:05.814 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:14:05.845 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:14:05.848 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:17:52.416 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:17:52.421 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:17:52.436 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:17:52.439 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:17:53.373 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:17:53.375 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:17:53.460 [Gauge] [DEBUG] Validation started.
+10-05-2020 01:17:53.472 [Gauge] [DEBUG] Validation completed.
+10-05-2020 01:36:48.364 [Gauge] [DEBUG] Runner with PID:16502 has exited
+14-05-2020 20:00:00.602 [Gauge] [INFO] Watching directory: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs
+14-05-2020 20:00:00.602 [Gauge] [DEBUG] Found 2 files
+14-05-2020 20:00:00.683 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-05-2020 20:00:00.684 [Gauge] [INFO] Initializing specs cache with 2 specs
+14-05-2020 20:00:00.684 [Gauge] [DEBUG] Adding specs from /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+14-05-2020 20:00:00.684 [Gauge] [DEBUG] Adding specs from /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/example.spec
+14-05-2020 20:00:00.684 [Gauge] [INFO] Initializing steps cache with 2 steps
+14-05-2020 20:00:00.700 [Gauge] [INFO] Starting language runner
+14-05-2020 20:00:02.811 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50915
+14-05-2020 20:00:02.815 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50915
+14-05-2020 20:00:02.815 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+14-05-2020 20:00:02.854 [Gauge] [DEBUG] Validation started.
+14-05-2020 20:00:02.864 [Gauge] [DEBUG] Validation completed.
+14-05-2020 20:03:03.989 [Gauge] [DEBUG] Runner with PID:80647 has exited
+14-05-2020 20:03:18.868 [Gauge] [INFO] Watching directory: /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs
+14-05-2020 20:03:18.869 [Gauge] [DEBUG] Found 2 files
+14-05-2020 20:03:18.883 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-05-2020 20:03:18.884 [Gauge] [INFO] Initializing specs cache with 2 specs
+14-05-2020 20:03:18.884 [Gauge] [DEBUG] Adding specs from /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/example.spec
+14-05-2020 20:03:18.884 [Gauge] [DEBUG] Adding specs from /Users/monika.sharma/Desktop/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+14-05-2020 20:03:18.884 [Gauge] [INFO] Initializing steps cache with 2 steps
+14-05-2020 20:03:18.885 [Gauge] [INFO] Starting language runner
+14-05-2020 20:03:20.792 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50978
+14-05-2020 20:03:20.795 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50978
+14-05-2020 20:03:20.795 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+14-05-2020 20:03:20.931 [Gauge] [DEBUG] Validation started.
+14-05-2020 20:03:20.942 [Gauge] [DEBUG] Validation completed.
+14-05-2020 20:03:21.073 [Gauge] [DEBUG] Runner with PID:81065 has exited
+12-06-2020 22:28:50.825 [Gauge] [INFO] Watching directory: /Users/monika.sharma/Desktop/myworkbench/testing/gauge-taiko/gauge-taiko-demo/gauge-taiko-test/specs
+12-06-2020 22:28:50.826 [Gauge] [DEBUG] Found 2 files
+12-06-2020 22:28:50.883 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-06-2020 22:28:50.884 [Gauge] [INFO] Initializing specs cache with 2 specs
+12-06-2020 22:28:50.884 [Gauge] [DEBUG] Adding specs from /Users/monika.sharma/Desktop/myworkbench/testing/gauge-taiko/gauge-taiko-demo/gauge-taiko-test/specs/example.spec
+12-06-2020 22:28:50.884 [Gauge] [DEBUG] Adding specs from /Users/monika.sharma/Desktop/myworkbench/testing/gauge-taiko/gauge-taiko-demo/gauge-taiko-test/specs/googleSearch.spec
+12-06-2020 22:28:50.884 [Gauge] [INFO] Initializing steps cache with 2 steps
+12-06-2020 22:28:50.892 [Gauge] [INFO] Starting language runner
+12-06-2020 22:28:52.516 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 55979
+12-06-2020 22:28:52.547 [Gauge] [DEBUG] Successfully made the connection with runner with port: 55979
+12-06-2020 22:28:52.547 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+12-06-2020 22:28:52.626 [Gauge] [DEBUG] Validation started.
+12-06-2020 22:28:52.633 [Gauge] [DEBUG] Validation completed.
+12-06-2020 22:32:44.380 [Gauge] [DEBUG] Validation started.
+12-06-2020 22:32:44.386 [Gauge] [DEBUG] Validation completed.
